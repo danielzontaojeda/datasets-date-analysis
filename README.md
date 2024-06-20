@@ -18,6 +18,8 @@ Datasets containing product reviews for use in temporal analysis.
 13. `com.google.android.marvin.talkback` → `android_accessibility.csv`[^9]
 14. `com.google.android.gms` → `google_mobile_services.csv`[^10]
 
+[^6], [^7], [^8], [^9], and [^10] were obtained from [^11].
+
 [^1]: [GitHub - americanas-tech/b2w-reviews01: review dataset](https://github.com/americanas-tech/b2w-reviews01)
 
 [^2]: These datasets were obtained from the [Amazon Cell Phones Reviews](https://www.kaggle.com/datasets/grikomsn/amazon-cell-phones-reviews?resource=download) by filtering for brands with at least 1000 negative reviews.
@@ -37,3 +39,5 @@ Datasets containing product reviews for use in temporal analysis.
 [^9]: [Android Accessibility](https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback&hl=pt_BR)
 
 [^10]: [Android – Google Mobile Services](https://www.android.com/gms/)
+
+[^11]: [sealuzh/app_reviews](https://huggingface.co/datasets/sealuzh/app_reviews)
